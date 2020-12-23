@@ -8,15 +8,15 @@ Also, there can be 2 ways to play it:
  - 2nd mode: You may lose points (but cant go below 0)
 
 How game should work:
-Player 1 starts to roll (2x regular dices). Then Player 2 rolls as well (both dices). Who got lower sum, must drink as many sips as the sums differ. 
-Example:
-   - P1 rolls 8
-   - P2 rolls 4
-   - P2 rolled lower so he lost, he must drink as many sips as the sums differ. (8-4=2, so 2 sips)
-
+  Player 1 starts to roll (2x regular dices). Then Player 2 rolls as well (both dices). Who got lower sum, must drink as many sips as the sums differ. 
+    Example:
+       - P1 rolls 8
+       - P2 rolls 4
+       - P2 rolled lower so he lost, he must drink as many sips as the sums differ. (8-4=2, so 2 sips)
+  
 Ingame rules:
-Dice rolling will go in circle. First roller will always compete with next player in line. Calulating round/roll winner and game winner is described above.
-If you will get a tie, then both of the players need to drink the sum of 2 dices. (there can be used 2nd mode, where the sum of tie will be calclated off from total score)
+  Dice rolling will go in circle. First roller will always compete with next player in line. Calulating round/roll winner and game winner is described above.
+  If you will get a tie, then both of the players need to drink the sum of 2 dices. (there can be used 2nd mode, where the sum of tie will be calclated off from total score)
 
 Options to use, when playing:
   1. Duubel/Doubleton (2 uses):
