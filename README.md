@@ -1,5 +1,5 @@
 # DrinkGame
-Planning to create android mobile app about a drinking game, what I made with my friends. Game includes 2 dices and some rules and options. 
+Planning to create android mobile app about a drinking game, what I made with my friends. Game includes 2 dices and some rules and options. \n
 Currently, this game is designed for sider/beer drinkers. (IDEA: if you use wine or stronger drinks, then the game needs only 1 dice to play)
 Winner of the game, is decided by score. Person who rolls bigger sum. Score is calculated (bigSum - lowSum = points). You can chose endscore yourself (standard 20?)
 Also, there can be 2 ways to play it:
