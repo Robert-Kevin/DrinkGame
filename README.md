@@ -29,6 +29,7 @@ Options to use, when playing:
   3. "Ei jaksöa"/"I Cant!" (1 use):
      If you dont want to drink, then DONT!. Player who uses it, dont need to take any sips, but will lose points (Two player rolling difference (Look "How game should work" example))
         -Other players will recive +1 point.
+        
 
 
 
