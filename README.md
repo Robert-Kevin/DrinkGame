@@ -3,8 +3,8 @@ Planning to create android mobile app about a drinking game, what I made with my
 Currently, this game is designed for sider/beer drinkers. (IDEA: if you use wine or stronger drinks, then the game needs only 1 dice to play)
 Winner of the game, is decided by score. Person who rolls bigger sum. Score is calculated (bigSum - lowSum = points). You can chose endscore yourself (standard 20?)
 Also, there can be 2 ways to play it:
- 1st mode: points will not be reducted
- 2nd mode: You may lose points (but cant go below 0)
+ - 1st mode: points will not be reducted
+ - 2nd mode: You may lose points (but cant go below 0)
 
 
 
@@ -25,10 +25,10 @@ Options to use, when playing:
   2.Hallpass (1 use): (NOTE: should only last player get the usage chance?)
     You can take a pass(from drinking) after rolling phase is done but need to take 2 sips from your drink. Other player(who didnt use it) wil get 2 points.
     Its good to use when you will get Duubel/Doubleton, or when you are too drunk. After using it, the rolling phase will start with next player.
-       -You will not get point from rolling scores.
+       - You will not get point from rolling scores.
   3. "Ei jaksöa"/"I Cant!" (1 use):
      If you dont want to drink, then DONT!. Player who uses it, dont need to take any sips, but will lose points (Two player rolling difference (Look "How game should work" example))
-        -Other players will recive +1 point.
+        - Other players will recive +1 point.
         
 
 
