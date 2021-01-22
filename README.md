@@ -12,7 +12,7 @@ How game should work:
     Example:
        - P1 rolls 8
        - P2 rolls 4
-       - P2 rolled lower so he lost, he must drink as many sips as the sums differ. (8-4=2, so 2 sips)
+       - P2 rolled lower so he lost, he must drink as many sips as the sums differ. (8-4=4, so 4 sips)
   
 Ingame rules:
   Dice rolling will go in circle. First roller will always compete with next player in line. Calulating round/roll winner and game winner is described above.
