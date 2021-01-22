@@ -30,6 +30,8 @@ Options to use, when playing:
         - Other players will recive +1 point.
         
 
-
+Ideas: when both roll same sum, then only half of sum will be lost from points.
+If there is odd number(etc 11), then when you devide with 2,
+Then the converaion will be lower. (If sum 11, then 11÷2=5.5, converse it to 5, not 6)
 
 
